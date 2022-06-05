@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Tourney:wght@100&display=swap');
+
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    color: #253237;
+    font-family: 'Tourney';
+    font-size: 3em;
+    border-bottom: solid 1px black;
+    margin-bottom: 20px;
+}
+
+#corpo {
+
+    font-family: 'Courier New', Courier, monospace;
+    width: 70%;
+    margin: auto;
+    border: black 1px solid;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+
+}
+
+#rese {
+    text-align: center;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    width: 120px;
+    padding: 5px;
+    margin-top: 35px;
+    border: rgba(0, 0, 0, 0.699) 1px solid;
+    color: rgba(0, 0, 0, 0.863);
+    box-shadow: 4px 4px 4px rgba(66, 50, 50, 0.103);
+}
+
+#rese:hover {
+
+    background-color: #253237;
+    color: white;
+
+}
+
+.cap {
+    text-align: center;
+    border-radius: 10px;
+    border: 1px solid;
+    padding: 3px;
+    width: 65%;
+}
+
+.aviso {
+    border: rgba(0, 0, 0, 0.699) 1px solid;
+    color: rgba(0, 0, 0, 0.863);
+    box-shadow: 4px 4px 4px rgba(66, 50, 50, 0.103);
+    text-align: center;
+    padding: 3px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#igual {
+    text-align: center;
+
+}
